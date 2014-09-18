@@ -67,20 +67,25 @@ Github URL
 
 
 <h3>Who are you?</h3>
-I am in the middle of a career change.  I was a professional musician who worked a variety of day jobs in the Los Angeles entertainment industry.  However, I recently moved to the midwest with my wife and child and my skillset is not a good match for the Madison job market.  
+<p>I am in the middle of a career change.  </p>
+
+<p>I was a professional musician who worked a variety of day jobs in the Los Angeles entertainment industry.  I recently moved to the midwest with my wife and child, and my skillset is not a good match for the Madison job market.  
 
 <h3>Why DWA?</h3>
-I would like to improve my LAMP skills.  
+<p>I would like to improve my LAMP skills.  </p>
 
 <h3>Code Experience?</h3>
-I've been programming since about the age of 10, inputing and modifying BASIC games into early personal computers (TSR-80, Atari 400, Apple II and etc.) and mainframes at a local SUNY university where students would help me and let me use their accounts.
-As an undergrad I studied PASCAL at Wayne State University in Detroit and Hypercard at New York University's Interactive Telecommunication Program as part of a two part Computational Media introduction.  I hand coded HTML and Javascript for about a dozen web 1.0 music web sites and dabbled in various C languages such as C/C++, Ruby, PHP, Java, Javascript, Actionscript, Python, Perl.
 
+<p>As an undergrad I studied PASCAL at Wayne State University in Detroit and Hypercard at New York University's Interactive Telecommunication Program as part of a two part Computational Media introduction.  
+</p>
+<p>
+	I hand coded HTML and Javascript for about a dozen web 1.0 music web sites and dabbled in various C languages such as C/C++, Ruby, PHP, Java, Javascript, Actionscript, Python, Perl.
+</p>
 <h3>Mac or PC?</h3>
-I am in the process of transitioning from an old PC to a new Mac.
+<p>I am in the process of transitioning from an old PC to a new Mac.</p>
 
 <h3>Anything else?</h3>
-I am interested in the creative uses of data and would appreciate any pointers in that direction.  
+<p>I am interested in the creative uses of data and would appreciate any pointers in that direction. </p> 
 </div>
 </div>
 </article>
