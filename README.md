@@ -1,7 +1,7 @@
 # p1
 
 ## Live URL
-<http://p1.joshuainmadison.com>
+<http://p1.joshuainmadison.me>
 
 ## Description
 P1: System Setup / Portfolio
