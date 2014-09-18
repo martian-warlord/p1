@@ -37,7 +37,7 @@ color: #5c2d50;
 
 h1{ text-align: center;
 font-family: 'Cherry Cream Soda', cursive;
-font-size: 3em;
+font-size: 1.5em;
 
 color: #d40e52}
 
@@ -49,8 +49,16 @@ font-size: 3em;
 }
 
 img {    display: block;
+	margin-top: .5em;
     margin-left: auto;
     margin-right: auto}
+
+header { text-align: center;
+font-family: 'Cherry Cream Soda', cursive;
+font-size: 2em;
+
+color: #d40e52;
+}
 
 nav {display: block;
 color: #5c2d50;

@@ -24,6 +24,7 @@
 <div  class="col-md-12 col-sm-12" >
 
 <h1>Joshua Darlington</h1> 
+Dynamic Web Apps Portfolio
 </div>
 </div>
 
@@ -39,22 +40,19 @@
 
 <div  class="col-md-4 col-sm-4" >
 <h2>P2</h2>
-Live URL 
-Github URL
+View: [link] Github: [link]
 </div>
 
 <div  class="col-md-4 col-sm-4" >
 
 <h2>P3</h2>
-Live URL 
-Github URL
+View: [link] Github: [link]
 </div>
 
 
 <div  class="col-md-4 col-sm-4" >
 <h2>P4</h2>
-Live URL 
-Github URL
+View: [link] Github: [link]
 </div>
 </div>
 </nav>
