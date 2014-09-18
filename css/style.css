@@ -10,15 +10,16 @@
 
 
 body {
+font-family: 'Lato', sans-serif;
+line-height: 24px;
+background-color: #8efffc;
 
-line-height: 16px;
-background-color: white;
-font-family: "Tahoma W01",Tahoma,Verdana,Segoe,sans-serif;
 }
 
 
 
-p {font-size: 14px;
+p {
+font-family: 'Lato', sans-serif;
 display: block;
 -webkit-margin-before: 1em;
 -webkit-margin-after: 1em;
@@ -29,62 +30,32 @@ display: block;
 
 
 h2{
-font-family: 'Bitter-SVG','Bitter','Palatino Linotype','Book Antiqua',Palatino,serif;
-font-size: 22px;
+ 
+font-family: 'Cherry Cream Soda', cursive;
+font-size: 2em;
 font-weight: bold;
 padding-bottom: 5px;
-line-height: 1.1em;
-color: #54565B;
 
-border-style: solid;
-border-width: 2px;
-border-right-color: white;
-border-left-color: white;
-border-top-color: white;
+color: #5c2d50;
+;
+
+
 }
 
 h1{
-font-family: 'Bitter-SVG','Bitter','Palatino Linotype','Book Antiqua',Palatino,serif;
-font-size: 24px;
+font-family: 'Cherry Cream Soda', cursive;
+font-size: 3em;
 
-font-weight: bold;
-padding-bottom: 5px;
-line-height: 1.1em;
-color: #C20430;}
+color: #d40e52}
 
 h3{
-color: #54565B;
-font-family: 'Bitter-SVG','Bitter','Palatino Linotype','Book Antiqua',Palatino,serif;
-font-size: 20px;
-letter-spacing: 0;
-font-weight: bold;
-margin: 10px 0 5px;
-line-height: 15px;
-}
-h4{
-color: #54565B;
-font-family: 'Bitter-SVG','Bitter','Palatino Linotype','Book Antiqua',Palatino,serif;
-font-size: 15px;
-font-weight: bold;
-letter-spacing: .0em;
-margin-bottom: 5px;
-margin-left: 0;
-margin-right: 0;
-line-height: 13px;
+color: #cd1719;
+font-family: 'Cookie', cursive;
+font-size: 3em;
+
+
 }
 
-
-
-
-td, td img {
-vertical-align: top;
-padding: 0 5px 2px 0;
-}
-
-table {
-width: 300px;
-padding-top: 10px;
-}
 
 
 

@@ -7,7 +7,7 @@
 <title>p1</title>
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" >
 <script src="js/respond.js"></script>
-<link href='http://fonts.googleapis.com/css?family=Bitter:700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Lato|Cherry+Cream+Soda|Cookie' rel='stylesheet' type='text/css'>
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 </head>
 
@@ -65,22 +65,21 @@ Github URL
 <div  class="col-md-12 col-sm-12" >
 
 
-Answer the following questions to help the teaching team get to know you:
 
-<h3>In 2+ sentences describe who you are and what you do.</h3>
+<h3>Who are you?</h3>
 I am in the middle of a career change.  I was a professional musician who worked a variety of day jobs in the Los Angeles entertainment industry.  However, I recently moved to the midwest with my wife and child and my skillset is not a good match for the Madison job market.  
 
-<h3>Why are you taking this course?</h3>
+<h3>Why DWA?</h3>
 I would like to improve my LAMP skills.  
 
-<h3>What previous experience do you have with programming?</h3>
+<h3>Code Experience?</h3>
 I've been programming since about the age of 10, inputing and modifying BASIC games into early personal computers (TSR-80, Atari 400, Apple II and etc.) and mainframes at a local SUNY university where students would help me and let me use their accounts.
 As an undergrad I studied PASCAL at Wayne State University in Detroit and Hypercard at New York University's Interactive Telecommunication Program as part of a two part Computational Media introduction.  I hand coded HTML and Javascript for about a dozen web 1.0 music web sites and dabbled in various C languages such as C/C++, Ruby, PHP, Java, Javascript, Actionscript, Python, Perl.
 
-<h3>Are you working on a Mac, PC, or some other platform?</h3>
+<h3>Mac or PC?</h3>
 I am in the process of transitioning from an old PC to a new Mac.
 
-<h3>Anything else we should know?</h3>
+<h3>Anything else?</h3>
 I am interested in the creative uses of data and would appreciate any pointers in that direction.  
 </div>
 </div>
