@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+<!-- Joshua Darlington Fall 2014 Project 1-->
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -73,7 +73,7 @@
 
 		<p>As an undergrad I studied Hypercard at New York University's Interactive Telecommunication Program as part of a two part Computational Media introduction.  </p>
 
-		<p>I hand coded HTML and Javascript for about a dozen web 1.0 music web sites and dabbled in various C languages such as C/C++, Ruby, PHP, Java, Javascript, Actionscript, Python, Perl.</p>
+		<p>I hand coded HTML and Javascript for about a dozen web 1.0 music web sites and I've dabbled in various C languages such as C/C++, Ruby, PHP, Java, Javascript, Actionscript, Python, Perl.</p>
 
 		<h3>Mac or PC?</h3>
 
