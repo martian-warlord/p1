@@ -9,7 +9,7 @@
 
 			<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" >
 			<script src="js/respond.js"></script>
-			<link href='http://fonts.googleapis.com/css?family=Lato|Cherry+Cream+Soda|Cookie' rel='stylesheet' type='text/css'>
+			<link href='http://fonts.googleapis.com/css?family=Lato%7CCherry+Cream+Soda%7CCookie' rel='stylesheet' type='text/css'>
 			<link href="css/style.css" rel="stylesheet" type="text/css" />
 
 </head>
