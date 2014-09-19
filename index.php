@@ -27,10 +27,15 @@
 		<div  class="col-md-12 col-sm-12" >
 		<h1>Joshua Darlington</h1> 
 		Dynamic Web Apps Portfolio
-		<img  alt="Joshua Darlington Headshot" src="Images/Joshua-Darlington-Headshot.jpg" />
 		</div>
 </div>
 
+<div class="row">
+		<div  class="col-md-6 col-sm-6" >
+		<img  alt="Joshua Darlington Headshot" src="Images/Joshua-Darlington-Headshot.jpg" />
+
+		</div>
+</div>
 
 
 
@@ -66,25 +71,45 @@
 
 <article>
 <div class="row">
-<div  class="col-md-12 col-sm-12" >
+<div  class="col-md-6 col-sm-6" >
 
 		<h3>Who are you?</h3>
 		<p>I am in the middle of a career change.  </p>
 
 		<p>I was a professional musician who worked a variety of day jobs in the Los Angeles entertainment industry.  I recently moved to the midwest with my wife and child, and my skillset is not a good match for the Madison job market.  
+</div>
+
+
+<div  class="col-md-6 col-sm-6" >
 
 		<h3>Why DWA?</h3>
 		<p>I would like to improve my LAMP skills.  </p>
+</div>
+</div>
+
+
+<div class="row">
+<div  class="col-md-6 col-sm-6" >
 
 		<h3>Code Experience?</h3>
 
 		<p>As an undergrad I did two semesters of Hypercard/Computational Media at New York University's Interactive Telecommunication Program.  </p>
 
 		<p>I hand coded HTML and Javascript for about a dozen web 1.0 music web sites and I've dabbled in various C languages such as C/C++, Ruby, PHP, Java, Javascript, Actionscript, Python, Perl.</p>
+</div>
+
+
+<div  class="col-md-6 col-sm-6" >
 
 		<h3>Mac or PC?</h3>
 
 		<p>I am in the process of transitioning from an old PC to a new Mac.</p>
+
+</div>
+</div>
+
+<div class="row">
+<div  class="col-md-6 col-sm-6" >
 
 		<h3>Anything else?</h3>
 		<p>I am interested in the creative uses of data and would appreciate any pointers in that direction. </p> 
