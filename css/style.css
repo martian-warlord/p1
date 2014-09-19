@@ -4,20 +4,26 @@
 
 body {
 font-family: 'Lato', sans-serif;
-font-size: 24px;
-line-height: 24px;
-background-color: #61c7e4;
+font-size: 12px;
+line-height: 12px;
+background-color: white;
 }
 
+ul
+{
+list-style-type: none;
+text-align: left;
+}
 
 p {
 font-family: 'Lato', sans-serif;
-display: block;
+font-size: 1.3em;
+line-height: 1.4em;
 }
 
 h2{
 font-family: 'Cherry Cream Soda', cursive;
-font-size: 2em;
+
 font-weight: bold;
 padding-bottom: 5px;
 color: #5c2d50;
@@ -26,46 +32,51 @@ color: #5c2d50;
 h1{ 
 text-align: center;
 font-family: 'Cherry Cream Soda', cursive;
-font-size: 1.5em;
+font-size: 3em;
 color: #d40e52}
 
 h3{ 
 text-align: center;
 color: #cd1719;
 font-family: 'Cookie', cursive;
-font-size: 3em;
+font-size: 4em;
 }
 
 img {    
 display: block;
+max-width: 100%;
+height: auto;
 margin-top: .5em;
 margin-left: auto;
 margin-right: auto
 }
 
 header { 
+background-color: #61c7e4;
 text-align: center;
 font-family: 'Cherry Cream Soda', cursive;
-font-size: 2em;
+font-size: 1.5em;
+line-height: 1.3em;
 color: #d40e52;
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+border-radius: 30px;
 }
 
 nav {
 display: block;
 color: #5c2d50;
 text-align: center;
+
 }
 
 article {
-padding: 20px 50px 75px 100px;
+padding: 20px 0px 75px 0px;
 margin-top: 2em;
 margin-bottom: 4em;
-margin-right: 3em;
-margin-left: 2em;
--webkit-border-radius: 30px;
--moz-border-radius: 30px;
-border-radius: 30px;
-background-color: white;
+
+
+
 }
 
 

@@ -30,7 +30,7 @@
 		<img  alt="Joshua Darlington Headshot" src="Images/Joshua-Darlington-Headshot.jpg" />
 		</div>
 </div>
-</header>
+
 
 
 
@@ -39,23 +39,30 @@
 
 		<div  class="col-md-4 col-sm-4" >
 		<h2>P2</h2>
-		View: [link] Github: [link]
+		<ul><li>View: [link]</li>
+		<li>Github: [link]</li>
+		</ul>
 		</div>
 
 		<div  class="col-md-4 col-sm-4" >
 
 		<h2>P3</h2>
-		View: [link] Github: [link]
+		<ul>
+		<li>View: [link] </li>
+		<li>Github: [link]</li>
+		</ul>
 		</div>
 
 
 		<div  class="col-md-4 col-sm-4" >
 		<h2>P4</h2>
-		View: [link] Github: [link]
+		<ul><li>View: [link] </li>
+		<li>Github: [link]</li>
+		</ul>
 		</div>
 </div>
 </nav>
-
+</header>
 
 <article>
 <div class="row">
