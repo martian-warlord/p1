@@ -26,20 +26,14 @@
 <div class="row">
 		<div  class="col-md-12 col-sm-12" >
 		<h1>Joshua Darlington</h1> 
-		Dynamic Web Apps Portfolio
+		<h4>Dynamic Web Apps Portfolio</h4>
 		</div>
 </div>
 
 <div class="row">
 		<div  class="col-md-6 col-sm-6" >
 		<img  alt="Joshua Darlington Headshot" src="Images/Joshua-Darlington-Headshot.jpg" />
-
 		</div>
-
-
-
-
-<nav>
 
 
 		<div  class="col-md-4 col-sm-4" >
@@ -66,7 +60,7 @@
 		</ul>
 		</div>
 </div>
-</nav>
+
 </header>
 
 <article>
