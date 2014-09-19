@@ -93,9 +93,9 @@
 
 		<h3>Code Experience?</h3>
 
-		<p>As an undergrad I did two semesters of Hypercard/Computational Media at New York University's Interactive Telecommunication Program.  </p>
+		<p>I did two semesters of Hypercard/Computational Media at New York University's Interactive Telecommunication Program.  </p>
 
-		<p>I hand coded HTML and Javascript for about a dozen web 1.0 music web sites and I've dabbled in various C languages such as C/C++, Ruby, PHP, Java, Javascript, Actionscript, Python, Perl.</p>
+		<p>I've hand coded HTML and Javascript for about a dozen web 1.0 music web sites and I've dabbled in various C languages such as C/C++, Ruby, PHP, Java, Javascript, Actionscript, Python, and Perl.</p>
 </div>
 
 
