@@ -35,12 +35,12 @@
 		<img  alt="Joshua Darlington Headshot" src="Images/Joshua-Darlington-Headshot.jpg" />
 
 		</div>
-</div>
+
 
 
 
 <nav>
-<div class="row">
+
 
 		<div  class="col-md-4 col-sm-4" >
 		<h2>P2</h2>

@@ -45,10 +45,11 @@ font-size: 4em;
 img {    
 display: block;
 max-width: 100%;
-height: auto;
-margin-top: .5em;
-margin-left: auto;
-margin-right: auto
+max-height: 80%;
+margin: 1em;
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+border-radius: 30px;
 }
 
 header { 
@@ -69,6 +70,8 @@ color: #5c2d50;
 text-align: center;
 
 }
+
+
 
 article {
 padding: 20px 0px 75px 0px;
