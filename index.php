@@ -38,7 +38,7 @@
 
 		<div  class="col-md-4 col-sm-4" >
 		<h2>P2</h2>
-		<ul><li>View: [link]</li>
+		<ul><li>View: <a href="http://p2.joshuainmadison.me">here</a></li>
 		<li>Github: [link]</li>
 		</ul>
 		</div>
