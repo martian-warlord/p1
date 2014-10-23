@@ -38,7 +38,8 @@
 
 		<div  class="col-md-4 col-sm-4" >
 		<h2>P2</h2>
-		<ul><li>View: <a href="http://p2.joshuainmadison.me">[link]</a> </li>
+		<ul>
+		<li>View: <a href="http://p2.joshuainmadison.me">[link]</a> </li>
 		<li>Github: <a href="https://github.com/martian-warlord/p2">[link]</a></li>
 		</ul>
 		</div>
@@ -47,8 +48,8 @@
 
 		<h2>P3</h2>
 		<ul>
-		<li>View: [link] </li>
-		<li>Github: [link]</li>
+		<li>View: <a href="http://p3.joshuainmadison.me">[link]</a> </li>
+		<li>Github: <a href="https://github.com/martian-warlord/p3">[link]</a></li>
 		</ul>
 		</div>
 
