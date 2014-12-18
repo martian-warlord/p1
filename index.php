@@ -56,8 +56,9 @@
 
 		<div  class="col-md-4 col-sm-4" >
 		<h2>P4</h2>
-		<ul><li>View: [link] </li>
-		<li>Github: [link]</li>
+		<ul>
+		<li>View: <a href="http://p4.joshuainmadison.me">[link]</a> </li>
+		<li>Github: <a href="https://github.com/martian-warlord/p4">[link]</a></li>
 		</ul>
 		</div>
 </div>
